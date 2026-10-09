@@ -1,2 +1,6 @@
 Hola Mundo
+<<<<<<< HEAD
 bye bye!
+=======
+bye bye
+>>>>>>> 409bbc05f5e97d6dc21e821d549b836cb30dd8a2
